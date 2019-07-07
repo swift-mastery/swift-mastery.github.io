@@ -86,6 +86,8 @@ footer:
       icon: "fab fa-fw fa-instagram"
       url: "https://instagram.com/"
 
+layout: home
+
 defaults:
   # _posts
   - scope:
