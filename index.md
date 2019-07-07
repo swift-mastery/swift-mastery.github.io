@@ -5,8 +5,8 @@ header:
   overlay_filter: "0.5"
   overlay_image: /assets/images/bench-accounting-C3V88BOoRoM-unsplash.jpg
   actions:
-    - label: "Download"
-      url: "https://github.com/mmistakes/minimal-mistakes/"
+    - label: "Learn More"
+      url: "#training"
   caption: "Photo by [Bench Accounting](https://unsplash.com/@benchaccounting?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText) on [**Unsplash**](https://unsplash.com)"
 excerpt: "Your Path to Swift Mastery"
 intro: 
