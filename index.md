@@ -10,9 +10,7 @@ header:
   caption: "Photo credit: [**Unsplash**](https://unsplash.com)"
 excerpt: "Your Path to Swift Mastery"
 intro: 
-  - excerpt: >-
-    Learn advanced Swift topics from experts through in-person courses. We covers topics including
-    Scalable / maintenable application architecture, Server-side Swift, SwiftUI & Combine framework, etc.
+  - excerpt: 'Learn advanced Swift topics from experts through in-person courses. We covers topics including scalable / maintenable application architecture, performance, protocol-oriented design, server-side Swift, SwiftUI & Combine framework, etc.'
 feature_row:
   - image_path: assets/images/unsplash-gallery-image-1-th.jpg
     alt: "placeholder image 1"
