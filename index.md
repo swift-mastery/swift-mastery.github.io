@@ -3,14 +3,14 @@ layout: splash
 header:
   overlay_color: "#000"
   overlay_filter: "0.5"
-  overlay_image: /assets/images/unsplash-image-1.jpg
+  overlay_image: /assets/images/bench-accounting-C3V88BOoRoM-unsplash.jpg
   actions:
     - label: "Download"
       url: "https://github.com/mmistakes/minimal-mistakes/"
-  caption: "Photo credit: [**Unsplash**](https://unsplash.com)"
+  caption: "Photo by [Bench Accounting](https://unsplash.com/@benchaccounting?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText) on [**Unsplash**](https://unsplash.com)"
 excerpt: "Your Path to Swift Mastery"
 intro: 
-  - excerpt: 'Learn advanced Swift topics from experts through in-person courses. We covers topics including scalable / maintenable application architecture, performance, protocol-oriented design, server-side Swift, SwiftUI & Combine framework, etc.'
+  - excerpt: 'Learn advanced Swift topics from experts through in-person courses. We covers topics including scalable / maintenable application architecture, performance, protocol-oriented design, server-side Swift, SwiftUI & Combine framework, and more.'
 feature_row:
   - image_path: assets/images/unsplash-gallery-image-1-th.jpg
     alt: "placeholder image 1"
