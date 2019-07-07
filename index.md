@@ -13,7 +13,7 @@ intro:
   - excerpt: 'Learn advanced Swift topics from experts through in-person courses. 
     We covers topics including scalable / maintenable application architecture, performance,
     protocol-oriented design, server-side Swift, SwiftUI & Combine framework, and more.'
-why-swift:
+why_swift:
   - title: "Why Learn Swift in-depth"
     excerpt: 'With Swift 5, the language is getting to a new level. Thanks to progressive disclosure, the
     language is easy to get started with. It is now multi-platform and can run both on iOS devices, on MacOS,
