@@ -14,13 +14,13 @@ intro:
     We covers topics including scalable / maintenable application architecture, performance,
     protocol-oriented design, server-side Swift, SwiftUI & Combine framework, and more.'
 why_swift:
-  - title: "Why Learn Swift in-depth"
+  - title: "Why Learn Swift In-Depth"
     excerpt: 'With Swift 5, the language is getting to a new level. Thanks to progressive disclosure, the
     language is easy to get started with. It is now multi-platform and can run both on iOS devices, on MacOS,
     but also on the server-side on Linux. However, the language is extremely dense and rich, as as you start
     getting to more complex topics, it can become quite overwhelming.'
     url: "#test-link"
-    btn_label: "Read More"
+    btn_label: "/why/"
     btn_class: "btn--primary"
 feature_row:
   - image_path: assets/images/unsplash-gallery-image-1-th.jpg
