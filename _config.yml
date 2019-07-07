@@ -19,7 +19,7 @@ description: >- # this means to ignore newlines until "baseurl:"
   Your Path to Swift Mastery
 twitter_username: mickael
 github_username: mremond
-minimal_mistakes_skin: sunrise
+minimal_mistakes_skin: default
 search: true
 # search_provider: algolia
 
