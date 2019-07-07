@@ -21,7 +21,7 @@ twitter_username: mickael
 github_username: mremond
 minimal_mistakes_skin: sunrise
 search: true
-search_provider: algolia
+# search_provider: algolia
 
 # Build settings
 markdown: kramdown
@@ -85,8 +85,6 @@ footer:
     - label: "Instagram"
       icon: "fab fa-fw fa-instagram"
       url: "https://instagram.com/"
-
-layout: home
 
 defaults:
   # _posts
